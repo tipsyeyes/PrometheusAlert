@@ -6,5 +6,5 @@ logo
 logs/
 example/linux
 example/windows
-vendor
+vendor/
 old_delete/
